@@ -1,4 +1,4 @@
-# Content Repurposing Workflow
+# Content Repurposing Automation
 
 This project automates the process of turning audio or video content into social media posts and blogs.
 
